@@ -1,0 +1,8 @@
+mn = Month Number
+mw = Month Week
+y = Year
+
+mn.mw.y
+
+Example:
+8.4.2025 = 4th week of August in 2025
