@@ -2,5 +2,5 @@
         "date": "8-17-2025",
         "title": "Header Types",
         "content": "There's also \"headerType\" so that things like adding header 2's are ez as possible (integer from 1 - 6 btw, technically 2 - 6 since anything outside the range defaults to just one # so LOL lmao)",
-		"headerType": 2
+        "headerType": 2
 }
