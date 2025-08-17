@@ -1,5 +1,5 @@
 {
         "date": "8-17-2025",
-        "title": "Blog Writter",
+        "title": "Blog Writer",
         "content": "Hey um...\nThis is the first blog post made with the blog maker I just made, LOL.\n\nI honestly just made it thinking about the Funkin.me blog where Ninjamuffin (Cam) mentioned that he wanted it to be automated through Github Actions where (this is off memory) where they submit issues to a (private?) repo and after the week all the issues will be bundled up into one blog post.\n\nI dunno if they ever implemented it (don't think so...) but I dunno Github Actions anyway so I just made a python script, LOL!\n\nBut yeah, that's what I did and that's what I'm going with. If you wanna check out the Script, maybe use it, go [here](https://github.com/sphis-sinco/Blog-Writer)"
 }
