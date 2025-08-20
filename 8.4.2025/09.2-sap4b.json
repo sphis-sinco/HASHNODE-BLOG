@@ -1,0 +1,7 @@
+{
+        "date": "8-20-2025",
+        "title": "SAP 4b",
+        "content": "It's been 2 days and we're at version 4b. Which adds SUPPORT for mobile platforms if compiled for them.\n\nWhat happened?\nBeta Milestones.\n\nI got obsessed with Milestone builds for the windows builds before release and I decided to implement that into Sinco and Portilizen.\nSo now, at Milestone 5 (Milestone 1 is 0.1b, 2 is 1b) we have all 3 levels I've decided are to stay / be added.\nAnd SUPPORT for mobile platforms. iOS idk, android defenitely.",
+        "headerType": 2,
+        "hideDate": false
+}
